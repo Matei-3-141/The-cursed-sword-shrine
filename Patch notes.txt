@@ -1,0 +1,91 @@
+Why are you here instead of playing the game? Nobody reads these anyway...
+
+Release notes for v0.1:
+-Added new tutorials
+-Added Health Shrine
+-Added new enemy type
+-Improved boss attacks
+
+Release notes for v0.2:
+-Added new tutorials
+-Added items:
+	-Common:
+		-Heart fragment
+		-Triple blue soda		
+		-Sharp sword
+	-Rare:
+		-Health container
+		-Tape measure
+	-Legendary:
+		-Training stopwatch
+-Added chests containing items
+-Chests spawn upon beating a big/elite room and require a key to open
+-Chests spawn upon beating the boss and require a key to open
+-Improved textures for the walls
+-Improved key texture
+-Added key animations
+-Improved health display
+
+Patch notes for v0.2.1:
+-Improved chest sprite
+-Added splash text on item pickup
+-Added new items:
+	-Rare:
+		-Coffee
+		-Blade dance
+	-Legendary:
+		-Baguette
+-Improved Boss door sprite and animation
+
+Hotfix notes for v0.2.2:
+-Fixed an issue where picking up an item and leaving the level would stop showing splash texts
+
+Release notes for v0.3:
+
+-Improved knockback mechanics
+-Improved room generation
+-Enemies do not phase through walls anymore
+-Added 3 new room layouts
+-Added 2 new elite room layouts
+-Added new boss room layout
+-Added new item
+	-Legendary:
+		-Ancient pillar
+-Updated boss health bar
+-Increased difficulty in boss rooms
+-Changed a boss attack
+
+Release notes for v0.4:
+-Added new font for all text in game
+-Added custom mouse cursor
+-You can now press ESC to pause the game!
+-Added new items:
+	-Common:
+		-Pipe bomb
+		-Rage
+		-Cactus
+
+Release notes for v0.5:
+-Added new player sprite!
+-Added new player animations
+-Added new items:
+	-Rare:
+		-Fragile life
+	-Unobtainable (not obtained through normal means):
+		-Broken glass
+
+Release notes for v0.6:
+-Added a main menu with the option to skip the tutorial
+-Added some sound effects
+-Changed room generation
+-Changed enemy AI
+Note from the developer:
+"I am very sorry that this update took so long. I promise to do my best to make updates faster! :)"
+
+Patch notes for v0.6.1:
+-Fixed an issue where teleport pillars would not deactivate after use
+-Fixed boss health bar not showing properly
+-Improved boss attacks and boss speed
+-Added new tutorials
+-Added inventory
+-Improved tutorial wall sprite
