@@ -89,3 +89,13 @@ Patch notes for v0.6.1:
 -Added new tutorials
 -Added inventory
 -Improved tutorial wall sprite
+
+Release notes for v0.7:
+-Added function to the cursed shrine "finally"
+-Added new items:
+	-Cursed items:
+		-Cursed Edge
+		-Cursed container
+		-Nuke juice
+-Added new tutorials
+
