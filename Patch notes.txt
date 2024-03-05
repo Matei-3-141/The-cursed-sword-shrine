@@ -94,8 +94,12 @@ Release notes for v0.7:
 -Added function to the cursed shrine "finally"
 -Added new items:
 	-Cursed items:
-		-Cursed Edge
-		-Cursed container
-		-Nuke juice
+		-Cursed Edge (Counterpart to Sharp Edge)
+		-Cursed container (Counterpart to Health Container)
+		-Nuke juice (Counterpart to Triple Blue Soda)
 -Added new tutorials
 
+Release notes for v0.7.1:
+-Added new items:
+	-Cursed items
+		-Meteorite (Counterpart to Cactus)
