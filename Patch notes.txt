@@ -103,3 +103,8 @@ Release notes for v0.7.1:
 -Added new items:
 	-Cursed items
 		-Meteorite (Counterpart to Cactus)
+Release notes for v0.7.2:
+-Added new items:
+	-Cursed items:
+		-Peace of mind (Counterpart to Rage)
+		-Glyph on a rock (Counterpart to Pipebomb)
