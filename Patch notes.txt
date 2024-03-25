@@ -108,3 +108,8 @@ Release notes for v0.7.2:
 	-Cursed items:
 		-Peace of mind (Counterpart to Rage)
 		-Glyph on a rock (Counterpart to Pipebomb)
+Release notes for v0.8:
+-Finally stopped rooms from overlaping!!!
+-Added new items:
+	-Cursed items:
+		-Aftermath (Counterpart to Coffee)
