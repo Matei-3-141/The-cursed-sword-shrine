@@ -103,17 +103,25 @@ Release notes for v0.7.1:
 -Added new items:
 	-Cursed items
 		-Meteorite (Counterpart to Cactus)
+
 Release notes for v0.7.2:
 -Added new items:
 	-Cursed items:
 		-Peace of mind (Counterpart to Rage)
 		-Glyph on a rock (Counterpart to Pipebomb)
+
 Release notes for v0.8:
 -Finally stopped rooms from overlaping!!!
 -Added new items:
 	-Cursed items:
 		-Aftermath (Counterpart to Coffee)
+
 Hotfix notes for v0.8:
 -Fixed walls in the tutorial not showing up
 -Fixed pre-placed turrets not firing at the player
 -Added drunk turrets(known bug)
+
+Release notes for v0.8.1:
+-Improved tutorial by replacing text with murals
+-Added a prompt that shows up when an interactable is near
+-For some reason the drunk turrets are fixed in the build(yippee)
