@@ -125,3 +125,10 @@ Release notes for v0.8.1:
 -Improved tutorial by replacing text with murals
 -Added a prompt that shows up when an interactable is near
 -For some reason the drunk turrets are fixed in the build(yippee)
+
+Release notes for v0.8.2:
+-Added new items:
+	-Cursed items:
+		-Hammer Time (Counterpart to Glass heart)
+		-Shield of Protection (Counterpart to Blade Dance)
+		-Time Portal (Counterpart to Training Stopwatch)
