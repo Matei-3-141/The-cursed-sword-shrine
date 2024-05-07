@@ -71,7 +71,7 @@ Release notes for v0.5:
 -Added new items:
 	-Rare:
 		-Fragile life
-	-Unobtainable (not obtained through normal means):
+	-Secret(not obtained through normal means):
 		-Broken glass
 
 Release notes for v0.6:
@@ -132,3 +132,19 @@ Release notes for v0.8.2:
 		-Hammer Time (Counterpart to Glass heart)
 		-Shield of Protection (Counterpart to Blade Dance)
 		-Time Portal (Counterpart to Training Stopwatch)
+
+Release notes for v0.8.3:
+-Added new items:
+	-Cursed items:
+		-Ruler Of Doom (Counterpart to Tape Measure)
+		-Corrupt Amethist (Counterpart to Haert fragment)
+		-Croissant (Counterpart to Baguette)
+	-Secret(not obtained through normal means):
+		-Amethist Slime
+-Changed item odds from chests:
+	-Common is now 60% (was 75%)
+	-Rare is now 30% (was 20%)
+	-Legendary is now 10% (was 5%)
+	"This is so that you now have a better chance of getting items I spent hours developing :)"
+-Added a map marker for better navigation without the map
+-Fixed a bug that made the "Press E" prompt appear on top of items, obstructing them
