@@ -148,3 +148,13 @@ Release notes for v0.8.3:
 	"This is so that you now have a better chance of getting items I spent hours developing :)"
 -Added a map marker for better navigation without the map
 -Fixed a bug that made the "Press E" prompt appear on top of items, obstructing them
+
+Release notes for v9.0:
+-Added LASERS!!!
+-Added 3 new enemies:
+	-Laser and Purple Laser enemies
+	-Splitter Enemy
+-Changed some room layouts and enemy spawns
+-Added 3 new room layouts (2 normal rooms and 1 elite room)
+-REMOVED Anicent Pillar from chests
+"This is because I want all items to have a cursed variant and I have no intention to create one for the pillar"
